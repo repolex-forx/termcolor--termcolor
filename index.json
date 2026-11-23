@@ -3,6 +3,11 @@
   "repo": "termcolor",
   "versions": [
     {
+      "commit": "0980eb52aa867fc32f70859a61c0609501b73a99",
+      "tag": "3.3.0",
+      "parsed_at": "2026-11-23T05:29:17.616224+00:00"
+    },
+    {
       "commit": "c7d0b8e8a42f417ec0c07fd846138b0a19b24d36",
       "tag": "",
       "parsed_at": "2026-10-18T04:13:21.879986+00:00"
